@@ -1,6 +1,6 @@
 # Hard Leetcode Problems
 
-This repo gathers some leetcode problems ranked hard.
+This repo gathers some leetcode problems ranked hard
 
 ## Content
 
@@ -12,5 +12,5 @@ the example
 
 ## Languages
 
-Most of problems are made in either C++ (g++, c++17) or Python3 (3.8).
+Most of problems are made in either C++ (g++, c++17) or Python3 (3.8)
 
