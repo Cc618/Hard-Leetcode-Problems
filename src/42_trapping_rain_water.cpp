@@ -6,6 +6,8 @@
 // Should return 6, the web page contains an image describing this example.
 // - Source :
 // https://leetcode.com/problems/trapping-rain-water
+// - Complexity :
+// O(n) time, O(n) space
 
 #include <bits/stdc++.h>
 
