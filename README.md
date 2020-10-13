@@ -2,11 +2,15 @@
 
 This repo gathers some leetcode problems ranked hard.
 
-Each file contains a description, an example, comments to understand
-the problem and also a link to the statement.
-Moreover, a main function is included with a dataset to test the problem.
+## Content
+
+- The problem : Includes the description provided by leetcode or a shorter version
+with a link and also an example test case
+- Solution : A solution with comments to understand it and also a code snippet to test
+the example
+- Complexity : Time and space complexity of the implemented solution
 
 ## Languages
 
-Most of the problems are made in either C++ (g++, c++17) or Python3 (3.8).
+Most of problems are made in either C++ (g++, c++17) or Python3 (3.8).
 
