@@ -5,6 +5,8 @@
 // s = "ADOBECODEBANC", t = "ABC", answer = "BANC"
 // - Source :
 // https://leetcode.com/problems/minimum-window-substring
+// - Complexity :
+// O(n * m) time, O(1) space, n = len(s), m = len(t)
 // - Warning :
 // C++17 code
 
@@ -51,7 +53,7 @@ public:
             // Not found initial window
             if (length == s.size())
                 return "";
-        } 
+        }
 
         if (length == 0)
             return s.substr(0, 1);
